@@ -1,0 +1,35 @@
+#lic__licorizeDiv{
+  -moz-box-shadow: #555 1px 1px 12px;
+  -webkit-box-shadow: #555 1px 1px 12px;
+  -o-box-shadow: #555 1px 1px 12px;
+  border:1px solid #888;
+  *border:2px solid #777;
+  border-top:0;
+  background:#fff;
+}
+
+div#lic__close {
+  width:40px;
+  height:70px;
+  top:20px;
+  right:-41px;
+}
+
+div#lic_messageBox{
+  position:fixed;
+  top:4px;
+  right:4px;
+  z-index:1000;
+  color:#000;
+  background-color:#B4FFB4;
+  border-bottom-color:#00A000;
+  border-style:dotted;
+  border-width:1px;
+  margin:0;
+  padding:10px;
+}
+
+.lic_it_container img {
+    background: transparent;
+    border: none;
+}
